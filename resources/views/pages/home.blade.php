@@ -5,7 +5,7 @@
         @include('pages.include.homepages.slider')
         <!--main-->
         <main id="main-contents" class="col-xs-12 col-sm-12 col-md-8">
-            <h1>Test gitsssssssss</h1>
+            <h1>Test</h1>
             @foreach($categories as $key=>$category)
                 <section id="halim-advanced-widget-2">
                     <div class="section-heading">
