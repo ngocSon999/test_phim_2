@@ -4,6 +4,7 @@
         <!--slider-->
         @include('pages.include.homepages.slider')
         <!--main-->
+        <h1>xin chao xoong chảo :))</h1>
         <main id="main-contents" class="col-xs-12 col-sm-12 col-md-8">
             @foreach($categories as $key=>$category)
                 <section id="halim-advanced-widget-2">
